@@ -14,14 +14,15 @@ Robot based on the awesome work of Theo Jansen called Rhinoceros
 
 
 ## BOM
-- 2 Geared motor DG02S [like this](http://www.robotshop.com/en/dagu-gear-motor-pair-offset-shaft.html)
+- 4 SERVO SM-S4303R  continous rotation [example](https://www.pololu.com/product/1248)
 - 1 [Zum board](http://3d.bq.com/zum.html) or compatible Arduino/Genuino board with Bluetooth feature
-- 1 Battery
+- 1 Battery pack 6V 2A
 - 3D printed parts
 
 ## Files
 **basical measure**  is a Freecad drawing of the basic kinematic
 
+TODO
 
 
 ## Contributing
