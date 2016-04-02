@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td>
-<img src="images/bq-logo-human-right-technology.png" width="400" align="center">
+
 </td>
 </tr>
 </table>
@@ -84,7 +84,12 @@ Robot based on the awesome work of Theo Jansen called Rhinoceros
 
 ## Credits
 
-Designed by Gianluca Pugliese [Owensource](https://www.owensource.com) for [BQ](https://www.bq.com)
+Designed by Gianluca Pugliese [Owensource](https://www.owensource.com) 
+
+
+Sponsored by BQ untill March 2016
+
+
 
 Inspired on the awesome Rhinoceros strandbeest
 
